@@ -16,4 +16,7 @@ for %%a in (%char%) DO set /a counter+=1 & if !counter!==!charandm! set charplac
 
 echo !charplace!>>gems.txt
 goto loop
+REM
+REM "Let him that hath understanding count the number of the beast:
+REM   for it is the number of a man; and his number is Six hundred threescore and six.
 		
